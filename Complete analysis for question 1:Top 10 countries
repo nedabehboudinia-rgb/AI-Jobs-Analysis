@@ -1,5 +1,5 @@
 # AI-Jobs-Analysis
-Analysis of the AI job market using SQL
+An exploratory data analysis (EDA) of the AI job market using SQL.
 # تحلیل داده‌های بازار کار هوش مصنوعی
 
 این پروژه به تحلیل یک مجموعه داده از آگهی‌های شغلی هوش مصنوعی می‌پردازد تا به سوالات کلیدی در مورد روندهای بازار پاسخ دهد. تمام تحلیل‌ها با استفاده از SQL انجام شده است.
@@ -24,6 +24,7 @@ ORDER BY
 LIMIT 10;
 ```
 **نتایج (Results)**:
+
 | company_location | job_count |
 |------------------|-----------|
 | Germany          | 814       |
